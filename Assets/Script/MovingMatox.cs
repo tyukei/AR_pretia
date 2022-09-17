@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-public class MovingMato : MonoBehaviour
+public class MovingMatox : MonoBehaviour
 {
     private Vector3 targetpos;
     [SerializeField] float speed = 1.0f;
