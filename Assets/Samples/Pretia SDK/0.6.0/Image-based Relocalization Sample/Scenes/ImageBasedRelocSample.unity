@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
+  m_IndirectSpecularColor: {r: 0.44407046, g: 0.49331486, b: 0.57238823, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -855,7 +855,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_SerializedLibrary: {fileID: 11400000, guid: e801f9d5fb17c49a48aaa40197b27628, type: 2}
-  m_MaxNumberOfMovingImages: 0
+  m_MaxNumberOfMovingImages: 1
   m_TrackedImagePrefab: {fileID: 0}
 --- !u!114 &1211621388
 MonoBehaviour:
@@ -875,7 +875,7 @@ MonoBehaviour:
   _timeoutInMilliseconds: 0
   _mapSelection: {fileID: 0}
   _trackedImageManager: {fileID: 1211621387}
-  _selectedReferenceImageIndex: 1
+  _selectedReferenceImageIndex: 0
 --- !u!114 &1211621389
 MonoBehaviour:
   m_ObjectHideFlags: 0
