@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "RFCT31G87LW",
         "name": "com.DefaultCompany.AR_pretia",
-        "processId": 30715,
+        "processId": 19922,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -24,6 +24,12 @@
             "deviceId": "RFCT31G87LW",
             "name": "com.DefaultCompany.AR_pretia",
             "processId": 30715,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCT31G87LW",
+            "name": "com.DefaultCompany.AR_pretia",
+            "processId": 19922,
             "exited": false
         }
     ],
