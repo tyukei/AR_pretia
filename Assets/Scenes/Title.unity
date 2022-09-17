@@ -712,7 +712,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Multiplayer Sample
+  m_Text: JAR
 --- !u!222 &1278377055
 CanvasRenderer:
   m_ObjectHideFlags: 0
