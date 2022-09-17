@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "RFCT31G87LW",
         "name": "com.DefaultCompany.AR_pretia",
-        "processId": 31508,
+        "processId": 24078,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -11,37 +11,43 @@
         {
             "deviceId": "RFCT31G87LW",
             "name": "com.DefaultCompany.AR_pretia",
-            "processId": 30845,
+            "processId": 19922,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCT31G87LW",
+            "name": "com.DefaultCompany.AR_pretia",
+            "processId": 29382,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCT31G87LW",
+            "name": "com.DefaultCompany.AR_pretia",
+            "processId": 31508,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCT31G87LW",
+            "name": "com.DefaultCompany.AR_pretia",
+            "processId": 14492,
             "exited": true
         },
         {
             "deviceId": "RFCT31G87LW",
             "name": "com.sec.android.app.launcher",
             "processId": 2181,
-            "exited": false
-        },
-        {
-            "deviceId": "RFCT31G87LW",
-            "name": "com.DefaultCompany.AR_pretia",
-            "processId": 30715,
             "exited": true
         },
         {
             "deviceId": "RFCT31G87LW",
             "name": "com.DefaultCompany.AR_pretia",
-            "processId": 19922,
+            "processId": 22737,
             "exited": false
         },
         {
             "deviceId": "RFCT31G87LW",
             "name": "com.DefaultCompany.AR_pretia",
-            "processId": 29382,
-            "exited": false
-        },
-        {
-            "deviceId": "RFCT31G87LW",
-            "name": "com.DefaultCompany.AR_pretia",
-            "processId": 31508,
+            "processId": 24078,
             "exited": false
         }
     ],
