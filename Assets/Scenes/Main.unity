@@ -1109,7 +1109,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jump
+  m_Text: JumpbyKei
 --- !u!222 &944900122
 CanvasRenderer:
   m_ObjectHideFlags: 0
