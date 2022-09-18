@@ -21,4 +21,8 @@ public class ChangeScene : MonoBehaviour
     {
         UnityEngine.SceneManagement.SceneManager.LoadScene("Result");
     }
+    public void CallTitleScene()
+    {
+        UnityEngine.SceneManagement.SceneManager.LoadScene("Title");
+    }
 }

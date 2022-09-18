@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "RFCT31G87LW",
         "name": "com.DefaultCompany.AR_pretia",
-        "processId": 31508,
+        "processId": 23776,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -11,7 +11,7 @@
         {
             "deviceId": "RFCT31G87LW",
             "name": "com.DefaultCompany.AR_pretia",
-            "processId": 30845,
+            "processId": 14492,
             "exited": true
         },
         {
@@ -23,25 +23,79 @@
         {
             "deviceId": "RFCT31G87LW",
             "name": "com.DefaultCompany.AR_pretia",
-            "processId": 30715,
+            "processId": 22737,
             "exited": true
         },
         {
             "deviceId": "RFCT31G87LW",
             "name": "com.DefaultCompany.AR_pretia",
-            "processId": 19922,
+            "processId": 24078,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCT31G87LW",
+            "name": "com.DefaultCompany.AR_pretia",
+            "processId": 25004,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCT31G87LW",
+            "name": "com.DefaultCompany.AR_pretia",
+            "processId": 26142,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCT31G87LW",
+            "name": "com.samsung.android.MtpApplication",
+            "processId": 8464,
             "exited": false
         },
         {
             "deviceId": "RFCT31G87LW",
             "name": "com.DefaultCompany.AR_pretia",
-            "processId": 29382,
+            "processId": 10097,
             "exited": false
         },
         {
             "deviceId": "RFCT31G87LW",
             "name": "com.DefaultCompany.AR_pretia",
-            "processId": 31508,
+            "processId": 12240,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCT31G87LW",
+            "name": "com.DefaultCompany.AR_pretia",
+            "processId": 13480,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCT31G87LW",
+            "name": "com.DefaultCompany.AR_pretia",
+            "processId": 14083,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCT31G87LW",
+            "name": "com.DefaultCompany.AR_pretia",
+            "processId": 15415,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCT31G87LW",
+            "name": "com.DefaultCompany.AR_pretia",
+            "processId": 16920,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCT31G87LW",
+            "name": "com.DefaultCompany.AR_pretia",
+            "processId": 19883,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCT31G87LW",
+            "name": "com.DefaultCompany.AR_pretia",
+            "processId": 23776,
             "exited": false
         }
     ],

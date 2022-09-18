@@ -21,7 +21,8 @@ namespace PretiaArCloud.Samples.ShooterSample
         private NetworkIdentity _characterPrefab;
         [SerializeField]
         private NetworkCameraManager _networkCameraManager;
-
+        [SerializeField]
+        private GameObject _matos;
         [Header("UI")]
         [SerializeField]
         private Text _relocalizationStatusLabel;
@@ -54,6 +55,7 @@ namespace PretiaArCloud.Samples.ShooterSample
             _gameSession = await NetworkManager.Instance.GetLatestSessionAsync();
             _gameSession.OnPlayerJoined += AssignPlayerId;
             _gameSession.NetworkSpawner.OnInstantiated += SetupCharacter;
+            _matos.SetActive(true);
             _gameSession.OnDisconnected += RemoveFromMap;
             _gameSession.OnDisconnected += ReturnPlayerId;
             _gameSession.PlayerMsg.Register<NetworkShootMsg>(InvokeShootOnCharacter);
